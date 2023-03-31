@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_primeiroprogramaintellij/02_primeiroprogramaintellij.iml" filepath="$PROJECT_DIR$/02_primeiroprogramaintellij/02_primeiroprogramaintellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_primeiroprogramaintellij/src/02_primeiroprogramaintellij1.iml" filepath="$PROJECT_DIR$/02_primeiroprogramaintellij/src/02_primeiroprogramaintellij1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_java-anatomia-classes/03_java-anatomia-classes.iml" filepath="$PROJECT_DIR$/03_java-anatomia-classes/03_java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_ConhecendoALinguagem.iml" filepath="$PROJECT_DIR$/1_ConhecendoALinguagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_logicaCondicionalControleFluxo/ControleFluxo/ControleFluxo.iml" filepath="$PROJECT_DIR$/04_logicaCondicionalControleFluxo/ControleFluxo/ControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_logicaCondicionalControleFluxo/OperadoresLogicos/OperadoresLogicos.iml" filepath="$PROJECT_DIR$/04_logicaCondicionalControleFluxo/OperadoresLogicos/OperadoresLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_logicaCondicionalControleFluxo/OperadoresRelacionais/OperadoresRelacionais.iml" filepath="$PROJECT_DIR$/04_logicaCondicionalControleFluxo/OperadoresRelacionais/OperadoresRelacionais.iml" />
+    </modules>
+  </component>
+</project>
