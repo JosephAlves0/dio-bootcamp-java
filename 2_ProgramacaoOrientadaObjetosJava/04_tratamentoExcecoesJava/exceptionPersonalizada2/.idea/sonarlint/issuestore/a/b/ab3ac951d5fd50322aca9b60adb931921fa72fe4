@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+?
+java:S1165""Make this "numerador" field final.(û•¯Ñ8ï¿è´ø0
+F
+java:S1165"$Make this "denominador" field final.(®¶Ž»øÿÿÿÿ8ï¿è´ø0
+J
+java:S1068"-Remove this unused "numerador" private field.(û•¯Ñ8ø¿è´ø0
+Q
+java:S1068"/Remove this unused "denominador" private field.(®¶Ž»øÿÿÿÿ8ø¿è´ø0

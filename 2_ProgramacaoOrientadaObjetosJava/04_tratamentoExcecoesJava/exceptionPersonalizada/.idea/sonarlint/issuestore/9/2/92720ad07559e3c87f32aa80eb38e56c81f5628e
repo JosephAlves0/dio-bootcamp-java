@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8˜ä’ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²şºË8Ÿ˜ä’ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ8¡˜ä’ø0
+C
+java:S11653"&Make this "nomeDoArquivo" field final.(è«Ç¸8¦˜ä’ø0
+?
+java:S11654""Make this "diretorio" field final.(úÜ¯•8¦˜ä’ø0
+T
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’8ßû÷’ø0

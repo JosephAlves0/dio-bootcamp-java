@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8Õ¢’ø0
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ü÷‹€8é¢’ø0
+`
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(³ÂÙš8é¢’ø0
+X	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ8í¢’ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìÇãØ8î¢’ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÄÿ‘8î¢’ø0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ûÄÏ8ò¢’ø0
