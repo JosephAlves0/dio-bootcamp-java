@@ -21,7 +21,7 @@ S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 S
 #src/test/java/AssumptionsTeste.java,3\c\3c1870b1b0864a8942e392734145727422a397cb
-R
-"src/test/java/ExceptionsTeste.java,f\0\f07b68ae99c4b6aacbb5dcb3c098ed5828d67a01
 X
 (src/test/java/EscolhendoAOrdemTeste.java,4\a\4ab8dbff2f4aa5fd34000d9fc07f5f57b0af55b6
+R
+"src/test/java/ExceptionsTeste.java,f\0\f07b68ae99c4b6aacbb5dcb3c098ed5828d67a01
